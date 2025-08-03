@@ -1,6 +1,6 @@
 # Attendance Track App
 
-A web-based application for tracking and managing attendance for organizations, schools, or events.
+A App-based application for tracking and managing attendance for organizations, schools, or events.
 
 ## Features
 
